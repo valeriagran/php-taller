@@ -1,0 +1,22 @@
+.menu {
+    background-color: rgb(136, 230, 198);
+}
+.nombre {
+    color:black;
+    font-family: 'Shadows Into Light', cursive;
+}
+footer {
+    background-color: rgb(161, 155, 155);
+}
+.descripcion {
+    font-family: "papyrus";
+    color: rgb(23, 26, 56);
+}
+.letra {
+    font-family: "papyrus";
+    color: rgb(65, 22, 27);
+}
+.texto {
+    font-family:"font-family";
+
+}
